@@ -1,6 +1,6 @@
 # 👋 Welcome to Pado!
 
-Pado is a group of four normal guys creating waves of positive change. In society, we call the new reverberation "waves." Team Pado wants to have the influence to create ripples of change in society.
+Pado is a group of five normal people creating waves of positive change. In society, we call the new reverberation "waves." Team Pado wants to have the influence to create ripples of change in society.
 
 ## 🌊 About Team Pado
 
