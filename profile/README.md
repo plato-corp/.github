@@ -46,9 +46,10 @@ A backend engineer who is really good at complimenting others.
 
 Co-founder, Product Owner
 
-A hacker who really wants to earn a lot of money (legally).
+A hacker who strives for greater beauty and excellence.
 
-🌍 [Blog](https://blog.codot.cc)
+🌍 [Blog](https://eunsunglim.com)
+✉️ [Mail](mailto:l@padocorp.com)
 
 ### WH
 
