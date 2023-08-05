@@ -18,15 +18,6 @@ Pado is a form of wave, and a wave has the following four characteristics.
 
 ## 👥 Meet the Team
 
-### John
-
-Co-founder, Business Owner
-
-Believes that all opportunities in the world come from people.
-
-🌍 [Website](https://johnjeong.com)
-✉️ [Mail](mailto:john@padocorp.com)
-
 ### Yeoul
 
 Co-founder, Engineer
@@ -35,12 +26,6 @@ A engineer who really loves to read books.
 
 🌍 [Website](https://yeoulcoding.me)
 ✉️ [Mail](mailto:yeoul.kim@padocorp.com)
-
-### Dorvin
-
-Co-founder, Backend Engineer
-
-A backend engineer who is really good at complimenting others.
 
 ### Liam
 
