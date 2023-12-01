@@ -1,8 +1,8 @@
-# 👋 Welcome to Pado!
+# 👋 Welcome to freshyeoul!
 
-Pado is a group of five normal people creating waves of positive change. In society, we call the new reverberation "waves." Team Pado wants to have the influence to create ripples of change in society.
+freshyeoul is a group of four normal penguins creating waves of positive change. 
 
-## 🌊 About Team Pado
+## 🌊 About FreshYeoul
 
 Pado is a form of wave, and a wave has the following four characteristics.
 
@@ -20,29 +20,19 @@ Pado is a form of wave, and a wave has the following four characteristics.
 
 ### Yeoul
 
-Co-founder, Engineer
+Co-founder
 
-A engineer who really loves to read books.
+A engineer who struggles to complete his own philsophy.
 
-🌍 [Website](https://yeoulcoding.me)
-✉️ [Mail](mailto:yeoul.kim@padocorp.com)
+🌍 [Website](https://sckimynwa.github.io)
 
-### Liam
+### Fresh
 
-Co-founder, Product Owner
+Co-founder
 
 A hacker who strives for greater beauty and excellence.
 
 🌍 [Blog](https://eunsunglim.com)
-✉️ [Mail](mailto:l@padocorp.com)
-
-### WH
-
-Co-founder, Non-developer
-
-## 🤝 Let's have a Coffee Chat
-
-If you [contact us via email](mailto:dev@padocorp.com), we can meet and have an interesting conversation.
 
 ---
-Pado 🌊 Creating Waves of Positive Change
+First Penguin's  🐧 
