@@ -26,9 +26,9 @@ A engineer who struggles to complete his own philsophy.
 
 ### Fresh
 
-Co-founder
+Software Engineer
 
-A hacker who strives for greater beauty and excellence.
+A hacker who strives for greater beauty.
 
 🌍 [Blog](https://eunsunglim.com)
 
