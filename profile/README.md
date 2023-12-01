@@ -2,9 +2,7 @@
 
 freshyeoul is a group of four normal penguins creating waves of positive change. 
 
-## 🌊 About FreshYeoul
-
-Pado is a form of wave, and a wave has the following four characteristics.
+## 🐧 About FreshYeoul
 
 1. **Reflection** - We move forward even if we face rejection in the market.
 2. **Refraction** - Like a wave propagating in the shortest time, we always maintain a lean attitude.
