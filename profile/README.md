@@ -4,6 +4,7 @@ The Plato is a group of five normal penguins creating waves of positive change.
 
 ## 🐧 About The Plato
 
+[The Origin of the name](https://blog.yeoul.io/2024/03/30/platonic-fold.html)
 1. **Reflection** - We move forward even if we face rejection in the market.
 2. **Refraction** - Like a wave propagating in the shortest time, we always maintain a lean attitude.
 3. **Diffraction** - We continuously move forward based on flexible thinking.
