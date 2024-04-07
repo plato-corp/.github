@@ -1,8 +1,8 @@
-# 👋 Welcome to freshyeoul!
+# 👋 Welcome to The Plato!
 
-freshyeoul is a group of four normal penguins creating waves of positive change. 
+The Plato is a group of five normal penguins creating waves of positive change. 
 
-## 🐧 About FreshYeoul
+## 🐧 About The Plato
 
 1. **Reflection** - We move forward even if we face rejection in the market.
 2. **Refraction** - Like a wave propagating in the shortest time, we always maintain a lean attitude.
@@ -24,13 +24,11 @@ A engineer who struggles to complete his own philsophy.
 
 🌍 [Website](https://sckimynwa.github.io)
 
-### Fresh
-
-Software Engineer
+### Evan
 
 A hacker who strives for greater beauty.
 
-🌍 [Blog](https://eunsunglim.com)
+🌍 [Blog](https://freshlog.io)
 
 ---
-First Penguin's  🐧 
+Powered by The First Penguins 🐧 
