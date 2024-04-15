@@ -23,13 +23,16 @@ Co-founder
 
 A engineer who struggles to complete his own philsophy.
 
-🌍 [Website](https://sckimynwa.github.io)
+🌍 [Blog](https://sckimynwa.github.io)
 
 ### Evan
 
 A hacker who strives for greater beauty.
 
 🌍 [Blog](https://freshlog.io)
+
+
+### Unic
 
 ---
 Powered by The First Penguins 🐧 
