@@ -1,7 +1,5 @@
 # 👋 Welcome to The Plato!
 
-The Plato is a group of five normal penguins creating waves of positive change. 
-
 ## 🐧 About The Plato
 
 [The Origin of the name](https://blog.yeoul.io/2024/03/30/platonic-fold.html)
@@ -14,28 +12,3 @@ The Plato is a group of five normal penguins creating waves of positive change.
 
 1. Extreme Honesty - We share honest thoughts that everyone has.
 2. NOT nice IS NOT rude - But we communicate politely during the process.
-
-## 👥 Meet the Team
-
-### Yeoul
-
-Co-founder
-
-A engineer who struggles to complete his own philsophy.
-
-🌍 [Blog](https://sckimynwa.github.io)
-
-### Unic
-
-### Bbabam
-
-### Dan
-
-### Evan
-
-A hacker who strives for greater beauty.
-
-🌍 [Blog](https://freshlog.io)
-
----
-Powered by The First Penguins 🐧 
