@@ -162,19 +162,6 @@ We create a workplace where:
 </table>
 
 <br>
-
-## 🚀 2026 & Beyond
-
-| Metric | Now | H1 2026 | H2 2026 |
-|--------|-----|---------|---------|
-| MRR | $90K | $200K | $400K |
-| Global Revenue | 13% | 45% | 50% |
-| B2B Ratio | 21% | — | 50% |
-
-**Our mission:** Become the definitive **Context Provider** in the age of AI—the software that transforms every conversation into actionable intelligence.
-
-<br>
-
 ---
 
 <div align="center">
